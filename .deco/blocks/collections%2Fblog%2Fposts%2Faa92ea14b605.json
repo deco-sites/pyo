@@ -1,0 +1,16 @@
+{
+  "name": "collections/blog/posts/aa92ea14b605",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [
+      {}
+    ],
+    "extraProps": [],
+    "title": "Welcome Pyo",
+    "excerpt": "welcome",
+    "slug": "welcome",
+    "content": "<h2>good <em><mark data-color=\"#a32607\" style=\"background-color: #a32607; color: inherit\">riddance</mark></em> </h2><pre><code>always look on the bright side of life \n\n</code></pre>",
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pyo/a1272388-f3cc-444b-bfe8-11840ef40b39/pikaso_image_1730259527605.png"
+  }
+}
